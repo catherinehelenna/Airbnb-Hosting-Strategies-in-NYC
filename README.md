@@ -3,6 +3,8 @@
 This data was taken from Kaggle called New York City Airbnb Open Data, which can be accessed through this link:
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
+or you can use the CSV file AB_NYC_2019.csv.
+
 To see the final result of this project, you can access the dashboard here:
 https://public.tableau.com/app/profile/catherine.mulyadi/viz/Project1AirbnbHostingStrategiesinNYCDashboard/MilestoneProject1-Catherine
 
