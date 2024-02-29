@@ -36,7 +36,7 @@ Setting up more listings on Staten Island for 'Shared room' can fulfill the obse
 - It is possible to set up high price on the listing since the guests tend to stay in longer periods for more expensive Airbnb rooms.
 
 ----------------------------------------------------------------------------------------------------------
-Please do let me know if you have feedbacks or improvements for this project by reaching through catherinestefanny@gmail.com
+Please do let me know if you have feedbacks or improvements for this project by reaching through catherinehelenna888@gmail.com
 
 Thank you for reading!!
 
